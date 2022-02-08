@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+header h1{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    /* text-align: center; */
+}
+
+.styeled_p{
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+
+}
+
+#two p{
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+h2{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+#three img{
+    padding-top: 10px;
+}
+
+footer{
+    text-align: right;
+    color: gray;
+}
